@@ -28,7 +28,7 @@ describe('API TEST for "Regres.in"', () => {
     });
 
     // ====Sample POST Regres.in====
-    it('Test - Post User', async () => {
+    it('Test - POST User', async () => {
         const CreateUser = {
             "name": "Hendro Elyeser Lumombo",
             "job": "Quality Assurance"
